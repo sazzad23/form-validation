@@ -1,0 +1,40 @@
+
+
+body{
+    font-family: 'Lato', sans-serif;
+    overflow-x: hidden;
+}
+h1,h2,h3,h4{
+    margin: 0;
+}
+p{
+    font-family: 'Lato', sans-serif;
+    margin-bottom: 0;
+}
+ul{
+	padding-left:0;
+        margin: 0px;
+}
+li{font-family: 'Lato', sans-serif;}
+.form-wrapper {
+    background: #a0c4e2;
+    padding: 50px 40px;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+    margin-top: 100px;
+}
+label {
+   font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    color: #333;
+}
+.form-control{
+    border-radius: 0px;
+}
+h2{
+    margin-bottom: 20px;
+}
+.error{
+    color: red;
+}
